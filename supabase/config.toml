@@ -1,0 +1,11 @@
+# Configuração local do Supabase CLI.
+# O project_id real é definido ao rodar `supabase link` (feito na etapa de conexão).
+project_id = "plataforma-lms"
+
+[db]
+major_version = 15
+
+[auth]
+# Política de senha e segurança (conformidade — serviço Auth).
+enable_signup = true
+minimum_password_length = 8

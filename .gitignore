@@ -1,0 +1,22 @@
+# deps
+node_modules/
+.pnpm-store/
+
+# build
+dist/
+.next/
+.turbo/
+*.tsbuildinfo
+
+# env / segredos (NUNCA commitar)
+.env
+.env.*
+!.env.example
+
+# supabase local
+supabase/.branches/
+supabase/.temp/
+
+# os / editor
+.DS_Store
+*.log
