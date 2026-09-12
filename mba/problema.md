@@ -63,7 +63,7 @@ lead → sessão diagnóstica → proposta → matrícula. [D]
 - O perfil institucional `@windoc.oficial` estava em construção em jul/2026; a audiência
   real mora no perfil pessoal `@dr.fernandojorge` (4.516 seguidores), que atende
   **dois públicos simultâneos** — paciente e médico — com conteúdo alternado. [D]
-- Prova social existe (mentorados com documento estratégico formal, como o Dr. Euller),
+- Prova social existe (mentorados com documento estratégico formal e baseline auditável),
   mas está sub-utilizada: aparece no cronograma como tema de post, não como ativo
   comercial sistematizado (case estruturado, número auditado, depoimento em vídeo). [D]
 - O funil não tem **nome de etapa**. Sem nome, não há medição; sem medição, não há

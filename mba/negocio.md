@@ -125,7 +125,7 @@ não está em produção. [D]
 2. Clínica própria funcionando como prova viva do método. [D]
 3. Biblioteca metodológica densa e original (7 ativos listados em 2.2). [D]
 4. Biblioteca de conteúdo pronta: ~130 posts planejados e dezenas de carrosséis já diagramados. [D]
-5. Casos de mentorados com documento estratégico formal (ex.: Dr. Euller — baseline R$ 15k/mês, meta 90 dias R$ 30k/mês). [D]
+5. Casos de mentorados com documento estratégico formal (ex.: um mentorado com baseline de ~R$ 15k/mês e meta de 90 dias de ~R$ 30k/mês — identidade preservada). [D]
 6. Infraestrutura técnica embrionária: n8n integrado a formulário e planilha. [D]
 
 ### 5.4 Metas declaradas para o ciclo de 90 dias (jul → nov/2026) [D]
