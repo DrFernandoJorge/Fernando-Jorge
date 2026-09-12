@@ -31,6 +31,7 @@ Claude Code, (2) um prompt construído a partir deles e (3) a resposta gerada pe
 |---|---|
 | [`prompt.md`](prompt.md) | **Entrega 1** — o prompt dado à IA + a anatomia técnica de cada bloco |
 | [`resposta.md`](resposta.md) | **Entrega 2** — a resposta gerada: diagnóstico, plano 30/60/90 e automação |
+| [`plano-de-acao.md`](plano-de-acao.md) | Desdobramento operacional do plano: 13 semanas com datas reais, ações, tempo, entregável e painel semanal |
 
 ---
 
